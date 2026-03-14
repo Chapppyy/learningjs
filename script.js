@@ -71,4 +71,22 @@ const sports2 = " is a gamer";
 const school2 = " and he school\'s at Ghana Communication Technology University";
 console.log(`${me}${sports}${school}.`);
 
+const gh = "My Number is ";
+const number = 1234;
+console.log( gh + number);
 
+
+const myNum2 = 123;
+const myString2 = String(myNum2);
+console.log(typeof myString2);
+
+
+const myString = "123";
+const myNum = Number(myString);
+console.log(myNum + 5);
+// number
+
+const myNum3 = 123;
+const myString3 = String(myNum3);
+console.log(myString3 + 5);
+// string
